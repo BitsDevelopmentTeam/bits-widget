@@ -54,6 +54,9 @@
 					<sdk>
 						<platform>15</platform>
 					</sdk>
+                    <proguard>
+                        <skip>false</skip>
+                    </proguard>
 				</configuration>
 			</plugin>
 		</plugins>
